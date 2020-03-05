@@ -1,4 +1,4 @@
-# ELMAKON - JSON REST API
+# TerraPro - JSON REST API
 JSON REST API is available for third party developers to make custom client application for the website. 
 Document illustrates following aspects of API:
 * Available endpoints 
