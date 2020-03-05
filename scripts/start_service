@@ -1,0 +1,5 @@
+#!/bin/bash
+
+service httpd start
+systemctl enable api.service
+systemctl start api.service

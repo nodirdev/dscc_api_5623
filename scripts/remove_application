@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf /var/www/API
+rm -f /etc/httpd/conf.d/api.conf
+rm -f /etc/systemd/system/api.service
