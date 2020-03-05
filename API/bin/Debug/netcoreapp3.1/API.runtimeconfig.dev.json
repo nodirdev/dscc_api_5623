@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/raresoft/.dotnet/store/|arch|/|tfm|",
+      "/Users/raresoft/.nuget/packages"
+    ]
+  }
+}
