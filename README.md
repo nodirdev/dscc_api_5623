@@ -6,6 +6,22 @@ Document illustrates following aspects of API:
 * Expected request bodies (query or routes) 
 * Returned response from endpoints 
 
+- [Product Endpoints](#product-endpoints)
+    + [Request - Get all products](#request---get-all-products)
+    + [Response](#response)
+    + [Request - Get product by id](#request---get-product-by-id)
+    + [Response](#response-1)
+    + [Request - Create product](#request---create-product)
+    + [Response](#response-2)
+    + [Request - Update product](#request---update-product)
+    + [Response](#response-3)
+    + [Request - Delete product](#request---delete-product)
+    + [Response](#response-4)
+- [Filter Endpoint](#filter-endpoint)
+    + [Request - Get all products paged, sorted, searched](#request---get-all-products-paged--sorted--searched)
+    + [Response](#response-5)
+    + [Request - Get all categories](#request---get-all-categories)
+    + [Response](#response-6)
 
 ## Product Endpoints
 #### Request - Get all products
