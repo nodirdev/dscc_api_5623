@@ -1,4 +1,4 @@
-Unit]
+[Unit]
 Description=Example .NET Web API App running on Linux
 [Service]
 WorkingDirectory=/var/www/API
